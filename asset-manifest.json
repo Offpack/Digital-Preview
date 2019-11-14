@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Digital-Previous/static/css/main.99436460.chunk.css",
-    "main.js": "/Digital-Previous/static/js/main.3973fe81.chunk.js",
-    "main.js.map": "/Digital-Previous/static/js/main.3973fe81.chunk.js.map",
+    "main.js": "/Digital-Previous/static/js/main.d1042cd2.chunk.js",
+    "main.js.map": "/Digital-Previous/static/js/main.d1042cd2.chunk.js.map",
     "runtime-main.js": "/Digital-Previous/static/js/runtime-main.f4553ff1.js",
     "runtime-main.js.map": "/Digital-Previous/static/js/runtime-main.f4553ff1.js.map",
     "static/js/2.c078e117.chunk.js": "/Digital-Previous/static/js/2.c078e117.chunk.js",
     "static/js/2.c078e117.chunk.js.map": "/Digital-Previous/static/js/2.c078e117.chunk.js.map",
     "index.html": "/Digital-Previous/index.html",
-    "precache-manifest.747677a8bb6b49e59d34f716708d99a9.js": "/Digital-Previous/precache-manifest.747677a8bb6b49e59d34f716708d99a9.js",
+    "precache-manifest.aa9f3560d6e625274cbce1980904e897.js": "/Digital-Previous/precache-manifest.aa9f3560d6e625274cbce1980904e897.js",
     "service-worker.js": "/Digital-Previous/service-worker.js",
     "static/css/main.99436460.chunk.css.map": "/Digital-Previous/static/css/main.99436460.chunk.css.map",
     "static/media/Activatr_logo_white.png": "/Digital-Previous/static/media/Activatr_logo_white.07ec248d.png",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.f4553ff1.js",
     "static/js/2.c078e117.chunk.js",
     "static/css/main.99436460.chunk.css",
-    "static/js/main.3973fe81.chunk.js"
+    "static/js/main.d1042cd2.chunk.js"
   ]
 }
