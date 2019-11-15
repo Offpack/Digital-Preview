@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b9419d70bd66cbe9def4c124f816440b",
+    "revision": "3278ef9c373ca7c8b25408fc6dfab6db",
     "url": "/Digital-Preview/index.html"
   },
   {
-    "revision": "74e91797ddf6ee0c4b7a",
+    "revision": "d6c012cd0f0d8d759a0b",
     "url": "/Digital-Preview/static/css/main.275d4574.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Digital-Preview/static/js/2.c078e117.chunk.js"
   },
   {
-    "revision": "74e91797ddf6ee0c4b7a",
-    "url": "/Digital-Preview/static/js/main.d95f5519.chunk.js"
+    "revision": "d6c012cd0f0d8d759a0b",
+    "url": "/Digital-Preview/static/js/main.590d9fd3.chunk.js"
   },
   {
     "revision": "fbf474816ba44badf6b2",
@@ -38,10 +38,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "913add732edaadcada6e8f462865bf0c",
     "url": "/Digital-Preview/static/media/FrankNew-ThinItalic.913add73.woff2"
-  },
-  {
-    "revision": "70013c35c4049cbb48d139794b1b2295",
-    "url": "/Digital-Preview/static/media/marks-logo.70013c35.png"
   },
   {
     "revision": "7b4b7b66b4ebf127c6e2494933b97e72",
